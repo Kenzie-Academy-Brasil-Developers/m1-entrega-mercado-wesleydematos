@@ -4,56 +4,56 @@ const products = [
     price: 8.99,
     category: "Frutas",
     image: undefined,
-    imageDescription: "",
+    imageDescription: "imagem indefinida",
   },
   {
     title: "Banana",
     price: 5.69,
     category: "Frutas",
     image: "./img/products/product_2.svg",
-    imageDescription: "",
+    imageDescription: "imagem de vários cachos de banana",
   },
   {
     title: "Mamão",
     price: 4.99,
     category: "Frutas",
     image: "./img/products/product_3.svg",
-    imageDescription: "",
+    imageDescription: "imagem de vários mamões",
   },
   {
     title: "Maçã",
     price: 9.2,
     category: "Frutas",
     image: "./img/products/product_4.svg",
-    imageDescription: "",
+    imageDescription: "imagem de uma maçã verde",
   },
   {
     title: "Refrigerante",
     price: 8.99,
     category: "Bebidas",
     image: undefined,
-    imageDescription: "",
+    imageDescription: "imagem indefinida",
   },
   {
     title: "Vinho",
     price: 8.99,
     category: "Bebidas",
     image: "./img/products/product_6.svg",
-    imageDescription: "",
+    imageDescription: "imagem de um vinho tinto com uma churrasqueira ao fundo",
   },
   {
     title: "Água Tônica",
     price: 8.99,
     category: "Bebidas",
     image: undefined,
-    imageDescription: "",
+    imageDescription: "imagem indefinida",
   },
   {
     title: "Água de coco",
     price: 8.99,
     category: "Bebidas",
     image: "./img/products/product_8.svg",
-    imageDescription: "",
+    imageDescription: "imagem de vários cocos verdes",
   },
 
   {
@@ -61,7 +61,7 @@ const products = [
     price: 8.99,
     category: "Higiene",
     image: "./img/products/product_9.svg",
-    imageDescription: "",
+    imageDescription: "imagem de dois sabonetes, um verde com um laço e um sabonete rosa",
   },
 
   {
@@ -69,7 +69,7 @@ const products = [
     price: 8.99,
     category: "Higiene",
     image: "./img/products/product_10.svg",
-    imageDescription: "",
+    imageDescription: "imagem de um detergente",
   },
 
   {
@@ -77,7 +77,7 @@ const products = [
     price: 8.99,
     category: "Higiene",
     image: "./img/products/product_11.svg",
-    imageDescription: "",
+    imageDescription: "imagem de uma pessoa usando um limpa superfícies com luvas nas mãos",
   },
 
   {
@@ -85,6 +85,6 @@ const products = [
     price: 8.99,
     category: "Higiene",
     image: undefined,
-    imageDescription: "",
+    imageDescription: "imagem indefinida",
   },
 ];
